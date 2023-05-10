@@ -10,7 +10,7 @@
       "require": "./dist/binsta.umd.cjs"
     }
   },
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
